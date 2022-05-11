@@ -7,6 +7,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
+* [Steps Followed](#steps-followed)
 
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -19,6 +20,18 @@
 > Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Steps Followed
+- Analysing the Data and Data Visualization
+- Data Cleaning and Data Manipulation
+- Creating dummy variables
+- Train-Test split
+- Rescaling of Data
+- Building the model
+- Model Interpretation
+- Assumptions
+- Predictions
+- Model Evaluation
 
 ## Conclusions
 These five variables which are probale factor based on the Linear Regression model which are impacting the demand of Bike sharing -
